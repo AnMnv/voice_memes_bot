@@ -1,4 +1,14 @@
-__pycache__
+# Ignore Python bytecode and cache directories
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore config file
 config.py
+
+# Ignore shell script
 easyPush.sh
+
+# Ignore SQLite database file
 usersID.db
