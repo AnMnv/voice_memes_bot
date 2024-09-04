@@ -3557,5 +3557,39 @@
         ],
         "title": "Антоха, клоуны атакуют",
         "usage_count": 9
+    },
+    {
+        "audio": "https://github.com/AnMnv/my-ogg-files/raw/main/export/245.ogg",
+        "id": 245,
+        "tags": [
+            "серый",
+            "смешно",
+            "блять",
+            "не",
+            "смешно",
+            "ору",
+            "ахаха",
+            "хаха",
+            "ха"
+        ],
+        "title": "Смешно, блять не смешно",
+        "usage_count": 9
+    },
+    {
+        "audio": "https://github.com/AnMnv/my-ogg-files/raw/main/export/246.ogg",
+        "id": 246,
+        "tags": [
+            "ну",
+            "у",
+            "меня",
+            "много",
+            "блять",
+            "ясно",
+            "ага",
+            "серый",
+            "деньги"
+        ],
+        "title": "Ну у меня много как бы, ну блять",
+        "usage_count": 9
     }
 ]
